@@ -1,6 +1,5 @@
 import { HashRouter, Routes, Route } from "react-router-dom";
 import "./App.css";
-import './componenta/style.css'
 import Room from "./componenta/Room";
 import ShowRoom from "./componenta/ShowRoom";
 import NewRoom from "./componenta/AddNewRoom";
